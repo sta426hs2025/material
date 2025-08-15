@@ -22,9 +22,9 @@ Monday 11.00-11.45
 | --- | --- | --- | --- | --- | --- |
 | 15.09.2025  | Mark+Hubert | admin; mol. bio. basics | quarto; git(hub) | | |
 | 22.09.2025  | Mark | interactive technology/statistics session  | group exercise: technology PR | | |
-| 29.09.2025  | Mark  | limma + friends | linear model simulation + design matrices | | |
-| 06.10.2025  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
-| 13.10.2025  | Hubert | mapping  | Rsubread | | |
+| 29.09.2025  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
+| 06.10.2025  | Hubert | mapping  | Rsubread | | |
+| 13.10.2025  | Mark  | limma + friends | linear model simulation + design matrices | | |
 | 20.10.2025  | Hubert | RNA-seq quantification | RSEM  | X | X | 
 | 27.10.2025  | Mark | edgeR+friends 1 | basic edgeR/voom | X | X |
 | 03.11.2025  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
