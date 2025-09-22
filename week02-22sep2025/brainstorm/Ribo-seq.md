@@ -32,7 +32,7 @@ The main applications of the method include:
 The analysis of Ribo-seq data involves various statistical methods:
 
 ### Differential gene expression (DGE) analysis: 
-Differential gene expression analysi uses tools like DESeq2 or EdgeR to identify genes with significant changes in ribosome occupancy or translational efficiency between different samples or conditions. This involves comparing the count data from Ribo-seq experiments. Both edgeR and DESeq2 are statistical packages for analyzing RNA-seq count data to find differentially expressed genes (DEGs). The core statistical model for both packages is the Negative Binomial (NB) distribution [^4-5]
+Differential gene expression analysi uses tools like DESeq2 or EdgeR to identify genes with significant changes in ribosome occupancy or translational efficiency between different samples or conditions. This involves comparing the count data from Ribo-seq experiments. Both edgeR and DESeq2 are statistical packages for analyzing RNA-seq count data to find differentially expressed genes (DEGs). The core statistical model for both packages is the Negative Binomial (NB) distribution [^4],[^5]
 
 ### Differential Translation Efficiency (DTE) Analysis
 Aims to identify genes whose translational efficiency changes between conditions. This is defined as the ratio of ribosome occupancy (from Ribo-seq) to mRNA abundance (from a matched RNA-seq experiment).
