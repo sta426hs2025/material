@@ -23,6 +23,8 @@ Hi-C data is represented as a contact matrix. Key statistical methods include:
 - **Normalization**: ICE (Iterative Correction and Eigenvector decomposition) to remove biases
 - **PCA**: to separate A/B chromatin compartments
 - **Loop detection**: enrichment testing using models like Fit-Hi-C or HiCCUPS
+- **Fit-Hi-C**: fits a spline to model expected contact probability as a function of genomic distance; tests each locus pair for enrichment using a binomial/negative binomial test with FDR correction.
+  - **HiCCUPS**: identifies local contact enrichments by scanning for “hotspots” in the contact matrix (donut-shaped filters) and comparing against local background; widely used in the Juicer pipeline.
 ---
 ## Linking Technology → Applications → Statistics
 | Technology      | Applications                              | Statistics                                      |
