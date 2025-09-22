@@ -48,7 +48,7 @@ These methods typically use a generalized linear model (GLM), often with a negat
 <!-- citations -->
 
 [^1]: Illumina: "Ribosome Profiling." Illumina, Inc. Accessed September 22, 2025. https://www.illumina.com/techniques/sequencing/rna-sequencing/ribosome-profiling.html
-[^2]: Ingolia, N. T., Ghaemmaghami, S., Newman, J. R. S., & Weissman, J. S. (2009). Genome-wide analysis in vivo of translation with ribosome profiling. Science, 324(5924), 218–223. doi: 10.1126/science.1168978
+[^2]: Ingolia, N. T., Ghaemmaghami, S., Newman, J. R. S., & Weissman, J. S. (2009). Genome-wide analysis in vivo of translation with ribosome profiling. Science, 324(5924), 218–223. [doi: 10.1126/science.1168978](https://www.science.org/doi/10.1126/science.1168978)
 [^3]: "Overview of Ribosome Profiling: Definition, Applications, Principles, and Workflow." CD Genomics. Accessed September 22, 2025. https://www.cd-genomics.com/overview-of-ribosome-profiling-definition-applications-principles-and-workflow.html
 [^4]: https://academic.oup.com/nar/article/53/2/gkaf018/7973897?login=true 
 [^5]: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8 
