@@ -14,7 +14,7 @@ The method works by taking advantage of the fact that a ribosome physically prot
 
 1. **Stop translation**: Cells are treated with a chemical, like cycloheximide, to freeze the ribosomes in place on the mRNA.
 2. **Digest unprotected RNA**: A nuclease enzyme is added to the cell lysate. This enzyme degrades all the mRNA that isn't protected by a ribosome.
-3. **Isolate Protected Fragments**: The small mRNA fragments that were protected, known as ribosome-protected fragments (RPFs), are isolated from the rest of the cellular material. These fragments are typically about 28-30 nucleotides long.
+3. **Isolate protected fragments**: The small mRNA fragments that were protected, known as ribosome-protected fragments (RPFs), are isolated from the rest of the cellular material. These fragments are typically about 28-30 nucleotides long.
 4. **Sequencing**: The RPFs are then converted to a sequencing library and sequenced using high-throughput sequencing. Sequence reads are mapped to the genome.
 
 ## Applications
