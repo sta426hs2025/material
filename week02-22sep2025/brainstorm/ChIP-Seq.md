@@ -3,6 +3,7 @@ Group Members:
 2) teodorako
 3) natalijamojsilovic
 
+
 ## ChIP-Seq Summary
 ***Chromatin Immunoprecipitation*** followed by sequencing is an assay used to map protein–DNA interactions across the genome. 
 ### Technology: 
