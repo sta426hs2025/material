@@ -31,7 +31,7 @@ Monday 11.00-11.45
 | 10.11.2025  | Mark | hands-on session #1: RNA-seq |  FASTQC/Salmon/etc. | [Differential abundance testing on single-cell data using k-nearest neighbor graphs](https://www.nature.com/articles/s41587-021-01033-z) (XX,TK,TB) | [spicyR: spatial analysis of in situ cytometry data in R](https://academic.oup.com/bioinformatics/article/38/11/3099/6570585) (SI, JH) |
 | 17.11.2025  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | X | X |
 | 24.11.2025  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
-| 01.12.2025  | tba | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | X | X  |
+| 01.12.2025  | tba | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | [CHOIR improves significance-based detection of cell types and states from single-cell data](https://www.nature.com/articles/s41588-025-02148-8) (MK, PB) | X  |
 | 08.12.2025  | Mark | spatial omics 1 | spatial statistics | X | X |
 | 15.12.2025  | Mark | spatial omics 2 | structures, DSP | X | X |
 
