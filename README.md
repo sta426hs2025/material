@@ -27,7 +27,7 @@ Monday 11.00-11.45
 | 13.10.2025  | Mark  | limma + friends | linear model simulation + design matrices | | |
 | 20.10.2025  | Hubert | RNA-seq quantification | RSEM  | X | X | 
 | 27.10.2025  | Mark | edgeR+friends 1 | basic edgeR/voom | X | X |
-| 03.11.2025  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
+| 03.11.2025  | Mark | edgeR+friends 2 | advanced edgeR/voom | [Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles](https://www.pnas.org/doi/10.1073/pnas.0506580102) (NH, HQ) | X |
 | 10.11.2025  | Mark | hands-on session #1: RNA-seq |  FASTQC/Salmon/etc. | [Differential abundance testing on single-cell data using k-nearest neighbor graphs](https://www.nature.com/articles/s41587-021-01033-z) (XX,TK,TB) | [spicyR: spatial analysis of in situ cytometry data in R](https://academic.oup.com/bioinformatics/article/38/11/3099/6570585) (SI, JH) |
 | 17.11.2025  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | X | X |
 | 24.11.2025  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
