@@ -33,7 +33,7 @@ Monday 11.00-11.45
 24.11.2025  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | [hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3) (CP, CK) | X |
 | 01.12.2025  | tba | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | [CHOIR improves significance-based detection of cell types and states from single-cell data](https://www.nature.com/articles/s41588-025-02148-8) (MK, PB) | [Redefining CpG islands using hidden Markov models](https://doi.org/10.1093/biostatistics/kxq005) (PW, ...)  |
 | 08.12.2025  | Mark | spatial omics 1 | spatial statistics | X | X |
-| 15.12.2025  | Mark | spatial omics 2 | structures, DSP | X | X |
+| 15.12.2025  | Mark | spatial omics 2 | structures, DSP | [Cell type-specific inference of differential expression in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01575-3) (DS, DF) | X |
 
 
 ## Course material
