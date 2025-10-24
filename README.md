@@ -14,7 +14,7 @@ Monday 11.00-11.45
 
 [Prof. Dr. Mark Robinson](https://robinsonlabuzh.github.io/), Professor of Statistical Genomics, [DMLS](https://www.mls.uzh.ch/en.html), UZH
 
-[tba](https://www.uzh.ch], Title, [Affiliation](https://ethz.ch/), UZH/ETHZ
+[Dr. Pierre-Luc Germain]([https://www.uzh.ch](https://ins.ethz.ch/people/person-detail.MjUwODk0.TGlzdC8yOTEzLC0xODk3MzAwNjU1.html)], Lecturer, [Department of Health Sciences and Technology](https://ins.ethz.ch/), ETHZ
 
 ## Schedule
 
@@ -31,8 +31,8 @@ Monday 11.00-11.45
 | 10.11.2025  | Mark | hands-on session #1: RNA-seq |  FASTQC/Salmon/etc. | [Differential abundance testing on single-cell data using k-nearest neighbor graphs](https://www.nature.com/articles/s41587-021-01033-z) (XX,TK,TB) | [spicyR: spatial analysis of in situ cytometry data in R](https://academic.oup.com/bioinformatics/article/38/11/3099/6570585) (SI, JH) |
 | 17.11.2025  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | [Application of Weighted Gene Co-expression Network Analysis  for Data from Paired Design](https://www.nature.com/articles/s41598-017-18705-z) (TR, FD, FH) | [TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses](https://www.nature.com/articles/s41592-024-02184-y) (AB, MF, EK) |
 24.11.2025  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | [hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3) (CP, CK) | X |
-| 01.12.2025  | tba | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | [CHOIR improves significance-based detection of cell types and states from single-cell data](https://www.nature.com/articles/s41588-025-02148-8) (MK, PB) | [Redefining CpG islands using hidden Markov models](https://doi.org/10.1093/biostatistics/kxq005) (PW, SB)  |
-| 08.12.2025  | Mark | spatial omics 1 | spatial statistics | X | X |
+| 01.12.2025  | Mark | spatial omics 1 | spatial statistics | [CHOIR improves significance-based detection of cell types and states from single-cell data](https://www.nature.com/articles/s41588-025-02148-8) (MK, PB) | [Redefining CpG islands using hidden Markov models](https://doi.org/10.1093/biostatistics/kxq005) (PW, SB)  |
+| 08.12.2025  | Pierre-Luc | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | X | X |
 | 15.12.2025  | Mark | spatial omics 2 | structures, DSP | [Cell type-specific inference of differential expression in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01575-3) (DS, DF) | X |
 
 
